@@ -1,0 +1,34 @@
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.BL\bin\Debug\Campaign.BL.dll.config
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.BL\bin\Debug\Campaign.BL.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.BL\bin\Debug\Campaign.BL.pdb
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.BL\bin\Debug\Campaign.Data.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.BL\bin\Debug\Campaign.IBL.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.BL\bin\Debug\EntityFramework.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.BL\bin\Debug\Campaign.Data.pdb
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.BL\bin\Debug\Campaign.Data.dll.config
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.BL\bin\Debug\Campaign.IBL.pdb
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.BL\bin\Debug\EntityFramework.xml
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.BL\obj\Debug\Campaign.BL.csprojAssemblyReference.cache
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.BL\obj\Debug\Campaign.BL.csproj.CoreCompileInputs.cache
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.BL\obj\Debug\Campaign.BL.csproj.CopyComplete
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.BL\obj\Debug\Campaign.BL.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.BL\obj\Debug\Campaign.BL.pdb
+D:\work\asp.net\CMS\Campaign.BL\bin\Debug\Campaign.BL.dll.config
+D:\work\asp.net\CMS\Campaign.BL\bin\Debug\Campaign.BL.dll
+D:\work\asp.net\CMS\Campaign.BL\bin\Debug\Campaign.BL.pdb
+D:\work\asp.net\CMS\Campaign.BL\bin\Debug\Campaign.Data.dll
+D:\work\asp.net\CMS\Campaign.BL\bin\Debug\Campaign.IBL.dll
+D:\work\asp.net\CMS\Campaign.BL\bin\Debug\EntityFramework.dll
+D:\work\asp.net\CMS\Campaign.BL\bin\Debug\EntityFramework.SqlServer.dll
+D:\work\asp.net\CMS\Campaign.BL\bin\Debug\Campaign.Data.pdb
+D:\work\asp.net\CMS\Campaign.BL\bin\Debug\Campaign.Data.dll.config
+D:\work\asp.net\CMS\Campaign.BL\bin\Debug\Campaign.IBL.pdb
+D:\work\asp.net\CMS\Campaign.BL\bin\Debug\EntityFramework.xml
+D:\work\asp.net\CMS\Campaign.BL\bin\Debug\EntityFramework.SqlServer.xml
+D:\work\asp.net\CMS\Campaign.BL\obj\Debug\Campaign.BL.csprojAssemblyReference.cache
+D:\work\asp.net\CMS\Campaign.BL\obj\Debug\Campaign.BL.csproj.CoreCompileInputs.cache
+D:\work\asp.net\CMS\Campaign.BL\obj\Debug\Campaign.BL.csproj.CopyComplete
+D:\work\asp.net\CMS\Campaign.BL\obj\Debug\Campaign.BL.dll
+D:\work\asp.net\CMS\Campaign.BL\obj\Debug\Campaign.BL.pdb

@@ -1,0 +1,24 @@
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.IBL\bin\Debug\Campaign.IBL.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.IBL\bin\Debug\Campaign.IBL.pdb
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.IBL\bin\Debug\Campaign.Data.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.IBL\bin\Debug\EntityFramework.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.IBL\bin\Debug\Campaign.Data.pdb
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.IBL\bin\Debug\Campaign.Data.dll.config
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.IBL\bin\Debug\EntityFramework.xml
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.IBL\obj\Debug\Campaign.IBL.csprojAssemblyReference.cache
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.IBL\obj\Debug\Campaign.IBL.csproj.CoreCompileInputs.cache
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.IBL\obj\Debug\Campaign.IBL.csproj.CopyComplete
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.IBL\obj\Debug\Campaign.IBL.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.IBL\obj\Debug\Campaign.IBL.pdb
+D:\work\asp.net\CMS\Campaign.IBL\bin\Debug\Campaign.IBL.dll
+D:\work\asp.net\CMS\Campaign.IBL\bin\Debug\Campaign.IBL.pdb
+D:\work\asp.net\CMS\Campaign.IBL\bin\Debug\Campaign.Data.dll
+D:\work\asp.net\CMS\Campaign.IBL\bin\Debug\EntityFramework.dll
+D:\work\asp.net\CMS\Campaign.IBL\bin\Debug\Campaign.Data.pdb
+D:\work\asp.net\CMS\Campaign.IBL\bin\Debug\Campaign.Data.dll.config
+D:\work\asp.net\CMS\Campaign.IBL\bin\Debug\EntityFramework.xml
+D:\work\asp.net\CMS\Campaign.IBL\obj\Debug\Campaign.IBL.csprojAssemblyReference.cache
+D:\work\asp.net\CMS\Campaign.IBL\obj\Debug\Campaign.IBL.csproj.CoreCompileInputs.cache
+D:\work\asp.net\CMS\Campaign.IBL\obj\Debug\Campaign.IBL.csproj.CopyComplete
+D:\work\asp.net\CMS\Campaign.IBL\obj\Debug\Campaign.IBL.dll
+D:\work\asp.net\CMS\Campaign.IBL\obj\Debug\Campaign.IBL.pdb

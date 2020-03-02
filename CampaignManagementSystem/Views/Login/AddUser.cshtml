@@ -1,0 +1,67 @@
+﻿@model Campaign.Data.UserLogin
+
+@{
+
+    ViewBag.Title = "Registration";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container-fluid">
+    <div class="row align-items-center justify-content-center h-100vh">
+        <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-3 d-flex align-items-center justify-content-center">
+            <img src="~/Images/Login_left_logo.jpg">
+        </div>
+        <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4">
+            <form class="cms-form" action="AddUser" method="post">
+                <h4 class="text-center  mb-5 cms-login-here">
+                    Register Here
+                </h4>
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                        <img class="input-group-text" src="~/Images/user-check.svg">
+                    </div>
+                    <input type="email" class="form-control" name="Email" placeholder="Enter email" aria-label="Username" aria-describedby="basic-addon1" value=@ViewBag.Email>
+                    <br /><p style="color:red">@ViewBag.EmailValidationError</p>
+                </div>
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                        <img class="input-group-text" src="~/Images/lock.svg">
+                    </div>
+                    <input type="password" class="form-control" name="Password" placeholder="Enter password" aria-label="Username" aria-describedby="basic-addon1">
+                    <br /><p style="color:red">@ViewBag.PwdValidationError</p>
+                </div>
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                        <img class="input-group-text" src="~/Images/lock.svg">
+                    </div>
+                    <select class="input-group-text" id="Role" name="Role">
+                        <option selected disabled>------------SELECT ROLE-----------</option>
+                        <option>MANAGEMENT</option>
+                        <option>MARKETING</option>
+                        <option>ADMIN</option>
+                    </select>
+                </div>
+
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                        <img class="input-group-text" src="~/Images/user-check.svg">
+                    </div>
+                    <input type="text" class="form-control" name="Fname" placeholder="Enter First Name" aria-label="Username" aria-describedby="basic-addon1" value=@ViewBag.Fname>
+
+                </div>
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                        <img class="input-group-text" src="~/Images/user-check.svg">
+                    </div>
+                    <input type="text" class="form-control" name="Lname" placeholder="Enter Last Names" aria-label="Username" aria-describedby="basic-addon1" value=@ViewBag.Lname>
+                    <br /><p style="color:red">
+                        @ViewBag.NameValidationError
+                        <br />@ViewBag.FormValidationError
+                    </p>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+            @Html.ActionLink("Cancel", "Index")
+        </div>
+    </div>
+</div>

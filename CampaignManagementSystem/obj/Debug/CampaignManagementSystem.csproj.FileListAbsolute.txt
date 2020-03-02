@@ -1,0 +1,183 @@
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\CampaignManagementSystem.dll.config
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\CampaignManagementSystem.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\CampaignManagementSystem.pdb
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\csc.exe
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\csc.exe.config
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\csc.rsp
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\csi.exe
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\csi.exe.config
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\csi.rsp
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\System.AppContext.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\System.Console.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\System.IO.Pipes.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\System.Security.Claims.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\vbc.exe
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\vbc.exe.config
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\vbc.rsp
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\System.Web.Razor.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\System.Web.Webpages.Deployment.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\System.Web.Webpages.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\System.Web.Webpages.Razor.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\System.Web.Razor.xml
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\System.Web.Webpages.xml
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\System.Web.Webpages.Deployment.xml
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\System.Web.Webpages.Razor.xml
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\obj\Debug\CampaignManagementSystem.csprojAssemblyReference.cache
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\obj\Debug\CampaignManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\obj\Debug\CampaignManagementSystem.csproj.CopyComplete
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\obj\Debug\CampaignManagementSystem.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\obj\Debug\CampaignManagementSystem.pdb
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\Campaign.BL.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\Campaign.IBL.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\Ninject.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\Ninject.Web.Common.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\Ninject.Web.Mvc.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\WebActivatorEx.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\Campaign.Data.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\EntityFramework.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\Campaign.BL.pdb
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\Campaign.BL.dll.config
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\Campaign.IBL.pdb
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\Ninject.xml
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\Ninject.Web.Common.xml
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\Ninject.Web.Mvc.xml
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\Campaign.Data.pdb
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\Campaign.Data.dll.config
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\EntityFramework.xml
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\CampaignManagementSystem\bin\EntityFramework.SqlServer.xml
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\CampaignManagementSystem.dll.config
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\CampaignManagementSystem.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\CampaignManagementSystem.pdb
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\csc.exe
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\csc.exe.config
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\csc.rsp
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\csi.exe
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\csi.exe.config
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\csi.rsp
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\System.AppContext.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\System.Console.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\System.IO.Compression.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\System.IO.Pipes.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\System.Security.AccessControl.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\System.Security.Claims.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\System.Security.Principal.Windows.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\System.ValueTuple.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\System.Xml.XPath.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\vbc.exe
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\vbc.exe.config
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\vbc.rsp
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\VBCSCompiler.exe
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\Campaign.BL.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\Campaign.Data.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\Campaign.IBL.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\EntityFramework.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\EntityFramework.SqlServer.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\Ninject.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\Ninject.Web.Common.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\Ninject.Web.Mvc.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\System.Web.Helpers.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\System.Web.Mvc.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\System.Web.Razor.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\System.Web.Webpages.Deployment.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\System.Web.Webpages.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\System.Web.Webpages.Razor.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\WebActivatorEx.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\Campaign.BL.pdb
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\Campaign.BL.dll.config
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\Campaign.Data.pdb
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\Campaign.Data.dll.config
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\Campaign.IBL.pdb
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\EntityFramework.xml
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\EntityFramework.SqlServer.xml
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\Ninject.xml
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\Ninject.Web.Common.xml
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\Ninject.Web.Mvc.xml
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\System.Web.Razor.xml
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\System.Web.Webpages.xml
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\System.Web.Webpages.Deployment.xml
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\System.Web.Webpages.Razor.xml
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\System.Web.Helpers.xml
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\System.Web.Mvc.xml
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\work\asp.net\CMS\CampaignManagementSystem\obj\Debug\CampaignManagementSystem.csprojAssemblyReference.cache
+D:\work\asp.net\CMS\CampaignManagementSystem\obj\Debug\CampaignManagementSystem.csproj.CoreCompileInputs.cache
+D:\work\asp.net\CMS\CampaignManagementSystem\obj\Debug\CampaignManagementSystem.csproj.CopyComplete
+D:\work\asp.net\CMS\CampaignManagementSystem\obj\Debug\CampaignManagementSystem.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\obj\Debug\CampaignManagementSystem.pdb
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\Antlr3.Runtime.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\Newtonsoft.Json.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\System.Web.Optimization.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\WebGrease.dll
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\Antlr3.Runtime.pdb
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\Newtonsoft.Json.xml
+D:\work\asp.net\CMS\CampaignManagementSystem\bin\System.Web.Optimization.xml

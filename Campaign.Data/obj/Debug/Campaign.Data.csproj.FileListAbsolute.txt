@@ -1,0 +1,24 @@
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.Data\bin\Debug\Campaign.Data.dll.config
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.Data\bin\Debug\Campaign.Data.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.Data\bin\Debug\Campaign.Data.pdb
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.Data\bin\Debug\EntityFramework.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.Data\bin\Debug\EntityFramework.xml
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.Data\obj\Debug\Campaign.Data.csprojAssemblyReference.cache
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.Data\obj\Debug\Campaign.Data.csproj.CoreCompileInputs.cache
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.Data\obj\Debug\Campaign.Data.csproj.CopyComplete
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.Data\obj\Debug\Campaign.Data.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.Data\obj\Debug\Campaign.Data.pdb
+D:\work\asp.net\CMS\Campaign.Data\bin\Debug\Campaign.Data.dll.config
+D:\work\asp.net\CMS\Campaign.Data\bin\Debug\Campaign.Data.dll
+D:\work\asp.net\CMS\Campaign.Data\bin\Debug\Campaign.Data.pdb
+D:\work\asp.net\CMS\Campaign.Data\bin\Debug\EntityFramework.dll
+D:\work\asp.net\CMS\Campaign.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\work\asp.net\CMS\Campaign.Data\bin\Debug\EntityFramework.xml
+D:\work\asp.net\CMS\Campaign.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\work\asp.net\CMS\Campaign.Data\obj\Debug\Campaign.Data.csprojAssemblyReference.cache
+D:\work\asp.net\CMS\Campaign.Data\obj\Debug\Campaign.Data.csproj.CoreCompileInputs.cache
+D:\work\asp.net\CMS\Campaign.Data\obj\Debug\Campaign.Data.csproj.CopyComplete
+D:\work\asp.net\CMS\Campaign.Data\obj\Debug\Campaign.Data.dll
+D:\work\asp.net\CMS\Campaign.Data\obj\Debug\Campaign.Data.pdb

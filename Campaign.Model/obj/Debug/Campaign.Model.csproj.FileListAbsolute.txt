@@ -1,0 +1,6 @@
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.Model\bin\Debug\Campaign.Model.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.Model\bin\Debug\Campaign.Model.pdb
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.Model\obj\Debug\Campaign.Model.csprojAssemblyReference.cache
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.Model\obj\Debug\Campaign.Model.csproj.CoreCompileInputs.cache
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.Model\obj\Debug\Campaign.Model.dll
+C:\Users\bhavin.parmar\Documents\Visual Studio 2017\Projects\CMS\Campaign.Model\obj\Debug\Campaign.Model.pdb
